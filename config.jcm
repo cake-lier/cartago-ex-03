@@ -1,5 +1,7 @@
 mas hello_world {
-    agent hello_world_agent
+    agent calc_agent
+
+    // agent calc_agent_solution
 
     asl-path: "src/main/jason"
     java-path: "src/main/cartago"
