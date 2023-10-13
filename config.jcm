@@ -1,4 +1,4 @@
-mas hello_world {
+mas exercise_03 {
     agent calc_agent
 
     asl-path: "src/main/jason"
