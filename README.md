@@ -1,4 +1,4 @@
-# JaCaMo by exercises — Exercise 03 — Operations with output parameters
+# CArtAgO by exercises — Exercise 03 — Operations with output parameters
 
 In this exercise is requested to implement only an artifact called "Calculator."
 This artifact provides two actions: one for adding two numbers together and one for subtracting them.
